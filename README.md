@@ -2,6 +2,8 @@
 
 `.lsy` file format is a lightweight, highly compressed solution for representing 3D Gaussian Splat (3DGS) data derived from `.ply` or `.splat` files. This project provides tools to efficiently convert, compress, and render 3DGS content, optimized for web platforms and resource-constrained devices.
 
+I look forward to your giving me a collection, because I will integrate it into unity later
+
 ---
 
 ## ✨ Features
