@@ -27,6 +27,8 @@ Drag & drop `.lsy` files into a web page to visualize real-time 3D Gaussian Spla
 | `.sogs`  | 20.8 MB      | 12.36× smaller    |
 | `.lsy`   | 15.7 MB      | 16.37× smaller    |
 
+![image](https://github.com/user-attachments/assets/8d47c99f-eefb-4f40-9d6a-1cdd19a791c8)
+
 ---
 
 ## 🚀 Quick Start
